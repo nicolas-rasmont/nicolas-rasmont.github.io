@@ -13,9 +13,9 @@ profile:
     <p>104 S Wright St</p>
     <p>Urbana, IL 61801</p>
 
-news: true  # includes a list of news items
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I am a PhD candidate in Aerospace Engineering at the University of Illinois at Urbana-Champaign. My research focuses on rocket propulsion, plume-surface interactions, and innovative sensing techniques for space applications.
