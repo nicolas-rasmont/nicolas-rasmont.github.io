@@ -1,25 +1,43 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://aerospace.illinois.edu/'>University of Illinois at Urbana-Champaign</a>. PhD Candidate in Aerospace Engineering.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: rasmont_headshot.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: >
+    <p>306 Talbot Laboratory</p>
+    <p>104 S Wright St</p>
+    <p>Urbana, IL 61801</p>
 
-news: true # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD candidate in Aerospace Engineering at the University of Illinois at Urbana-Champaign. My research focuses on rocket propulsion, plume-surface interactions, and innovative sensing techniques for space applications.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+## Research Interests
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- Rocket Propulsion
+- Plume-Surface Interactions
+- Planetary Dust
+- Entry, Descent & Landing
+- Multiphase Flows
+- Radar Sensing
+- Computational Fluid Dynamics
+- Computational Geometry
+- Space Systems
+
+## Current Research
+
+My current work involves experimental studies of plume-surface interactions during planetary landings, with a focus on non-intrusive diagnostics. Key aspects include:
+
+- Designing and building a 2000L vacuum facility with a Mach 5 cold gas thruster for PSI experiments.
+- Developing an innovative mmWave radar interferometer for measuring particle concentrations in opaque particle-laden flows.
+- Creating physics-based models of ejecta trajectories to reconstruct 3D ejecta concentrations, velocities, and erosion mass fluxes.
+
+This research is funded by a NASA ESI Grant and a NASA FINESST Fellowship.
