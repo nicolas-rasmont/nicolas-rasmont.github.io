@@ -19,3 +19,4 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am a PhD candidate in Aerospace Engineering at the University of Illinois at Urbana-Champaign. I like to solve problems related to aerospace propulsion, radar sensing, and fluid dynamics.
+These days, I am mostly working on plume-surface interactions during lunar landings.
