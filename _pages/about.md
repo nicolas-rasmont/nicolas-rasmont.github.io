@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://aerospace.illinois.edu/'>University of Illinois at Urbana-Champaign</a>. PhD Candidate in Aerospace Engineering.
+subtitle: Aerospace Engineering at <a href='https://aerospace.illinois.edu/'>UIUC</a>
 
 profile:
   align: right
@@ -18,26 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate in Aerospace Engineering at the University of Illinois at Urbana-Champaign. My research focuses on rocket propulsion, plume-surface interactions, and innovative sensing techniques for space applications.
-
-## Research Interests
-
-- Rocket Propulsion
-- Plume-Surface Interactions
-- Planetary Dust
-- Entry, Descent & Landing
-- Multiphase Flows
-- Radar Sensing
-- Computational Fluid Dynamics
-- Computational Geometry
-- Space Systems
-
-## Current Research
-
-My current work involves experimental studies of plume-surface interactions during planetary landings, with a focus on non-intrusive diagnostics. Key aspects include:
-
-- Designing and building a 2000L vacuum facility with a Mach 5 cold gas thruster for PSI experiments.
-- Developing an innovative mmWave radar interferometer for measuring particle concentrations in opaque particle-laden flows.
-- Creating physics-based models of ejecta trajectories to reconstruct 3D ejecta concentrations, velocities, and erosion mass fluxes.
-
-This research is funded by a NASA ESI Grant and a NASA FINESST Fellowship.
+I am a PhD candidate in Aerospace Engineering at the University of Illinois at Urbana-Champaign. I like to solve problems related to aerospace propulsion, radar sensing, and fluid dynamics.
