@@ -20,7 +20,4 @@ nav_order: 2
 <h2>Conference Articles</h2>
 {% bibliography -f papers -q @inproceedings %}
 
-<h2>Talks and Presentations</h2>
-{% bibliography -f papers -q @misc %}
-
 </div>
