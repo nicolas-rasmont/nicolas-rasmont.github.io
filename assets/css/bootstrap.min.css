@@ -644,13 +644,6 @@ pre code {
 a.btn.disabled {
   pointer-events: none;
 }
-
-.btn-sm {
-  padding: 0.25rem 0.5rem;
-  font-size: 0.875rem;
-  line-height: 1.5;
-  border-radius: 0.2rem;
-}
 .fade {
   transition: opacity 0.15s linear;
 }
@@ -1739,11 +1732,6 @@ a.close.disabled {
   }
   .d-md-block {
     display: block !important;
-  }
-}
-@media print {
-  .d-print-inline {
-    display: inline !important;
   }
 }
 .flex-column {
