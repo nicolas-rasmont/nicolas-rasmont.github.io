@@ -17,10 +17,10 @@ nav_order: 2
 <h2>Journal Articles</h2>
 {% bibliography -f papers -q @article %}
 
-<h2>Conference Proceedings</h2>
-{% bibliography -f papers -q @inproceedings %}
+<h2>Conference Articles</h2>
+{% bibliography -f papers -q @inproceedings[type!=talk] %}
 
 <h2>Talks</h2>
-{% bibliography -f papers -q @conference %}
+{% bibliography -f papers -q @inproceedings[type=talk] %}
 
 </div>
