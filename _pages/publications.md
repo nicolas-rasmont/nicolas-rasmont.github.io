@@ -18,9 +18,9 @@ nav_order: 2
 {% bibliography -f papers -q @article %}
 
 <h2>Conference Articles</h2>
-{% bibliography -f papers -q @inproceedings[type!=talk] %}
+{% bibliography -f papers -q @inproceedings %}
 
-<h2>Talks</h2>
-{% bibliography -f papers -q @inproceedings[type=talk] %}
+<h2>Talks and Presentations</h2>
+{% bibliography -f papers -q @misc %}
 
 </div>
