@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: rasmont_headshot.JPG
+  image: rasmont_headshot.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>306 Talbot Laboratory</p>
