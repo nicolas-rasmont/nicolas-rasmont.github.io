@@ -53,7 +53,7 @@
   type: time_table
   contents:
     - year: 2022 - 2025
-      items: 
+      items:
         - NASA FINESST Fellowship, NASA Science Mission Directorate - Planetary Science Division
     - year: 2022
       items:
@@ -62,23 +62,19 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Research Interests
-      items:
-        - Rocket Propulsion
-        - Plume-Surface Interactions
-        - Planetary Dust
-        - Entry, Descent & Landing
-        - Multiphase Flows
-        - Radar Sensing
-        - Computational Fluid Dynamics
-        - Computational Geometry
-        - Space Systems
+    items:
+      - Rocket Propulsion
+      - Plume-Surface Interactions
+      - Planetary Dust
+      - Entry, Descent & Landing
+      - Multiphase Flows
+      - Radar Sensing
+      - Computational Fluid Dynamics
+      - Computational Geometry
+      - Space Systems
 
-- title: Other Interests
+- title: Community Outreach and Mentoring
   type: list
   contents:
-    - Community Outreach and Mentoring:
-      Illinois Space Society Human Landing Challenge (HuLC) Team Mentoring,
-      Mentor for UIUC Aerospace Engineering Undergraduate Students,
-      Illinois Space Society Hybrid Rocket Engine Mentor,
-      AIGLE Student Member
+    - Illinois Space Society Human Landing Challenge (HuLC) Team Mentor
+    - Illinois Space Society Hybrid Rocket Engine Team Lead
