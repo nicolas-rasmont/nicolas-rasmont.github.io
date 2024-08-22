@@ -32,7 +32,6 @@
       "startDate": "2020-03-01",
       "endDate": "2020-08-01",
       "summary": "Integrated TPS erosion and propellant regression in a CFD model of a solid rocket engine."
-      
     }
   ],
   "volunteer": [],
@@ -157,18 +156,21 @@
     }
   ],
   "languages": [
-    "French",
-  "English"
-],
+    {
+      "language": "French",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+  ],
   "interests": [
     {
-      "name": "Aerospace Research",
-      "keywords": [
-        "Rocket Propulsion",
-        "Plume-Surface Interactions",
-        "Planetary Science",
-        "Radar Sensing"
-      ]
+      "name": "Aerospace Engineering",
+      "keywords": ["Rocket Propulsion", "Plume-Surface Interactions", "Planetary Science", "Radar Sensing"]
     }
   ],
   "references": [],
@@ -193,13 +195,6 @@
       "startDate": "2018-09-01",
       "endDate": "2019-12-01",
       "summary": "Led a team of 12 students through the design of a hybrid rocket engine for competitive rocketry applications."
-    },
-    {
-      "organization": "AIGLE",
-      "position": "Student Member",
-      "startDate": "2018-09-01",
-      "endDate": "2019-12-01",
-      "summary": "Participated in and animated a weekly support group for LGBT students, organized fundraising events, and led awareness campaigns."
     }
   ]
 }
